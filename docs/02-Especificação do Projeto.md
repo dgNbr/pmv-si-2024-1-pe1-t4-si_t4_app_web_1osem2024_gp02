@@ -26,14 +26,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... | QUERO/PRECISO ...  |PARA ...                |
 |--------------------|------------------------------------|----------------------------------------|
-|Isabella Lima| Registrar minhas despesas informando o valor, objetivo e vencimento.          | Economizar dinheiro                          |
-|Isabella Lima| Verificar a diferença entre receitas e despesas                               | Conseguir dinheiro para comprar um automóvel |
-|Daniel Oliveira| NECESSIDADE A SER SUPRIDA                               | OBJETIVO CUMPRIDO ATRAVÉS DA NECESSIDADE ANTERIOR |
-|Daniel Oliveira| NECESSIDADE A SER SUPRIDA                               | OBJETIVO CUMPRIDO ATRAVÉS DA NECESSIDADE ANTERIOR |
-|Matheus Teixeira| NECESSIDADE A SER SUPRIDA                               | OBJETIVO CUMPRIDO ATRAVÉS DA NECESSIDADE ANTERIOR |
-|Matheus Teixeira| NECESSIDADE A SER SUPRIDA                               | OBJETIVO CUMPRIDO ATRAVÉS DA NECESSIDADE ANTERIOR |
-|Deborah Silva| NECESSIDADE A SER SUPRIDA                               | OBJETIVO CUMPRIDO ATRAVÉS DA NECESSIDADE ANTERIOR |
-|Deborah Silva| NECESSIDADE A SER SUPRIDA                               | OBJETIVO CUMPRIDO ATRAVÉS DA NECESSIDADE ANTERIOR |
+|Isabella Lima| Registrar minhas despesas informando o valor, objetivo e vencimento. | Economizar dinheiro. |
+|Isabella Lima| Verificar a diferença entre receitas e despesas. | Conseguir dinheiro para comprar um automóvel. |
+|Daniel Oliveira| Resgistrar meus gastos e despesas. | Administrar melhor meus gastos. |
+|Daniel Oliveira| Orçamentos para meus gastos. | Pagar dívidas. |
+|Matheus Teixeira| Saber com o que meu dinheiro está sendo gasto.| Fazer uma reserva de dinheiro e viajar para o exterior. |
+|Matheus Teixeira| Acesso a conteúdos de educação financeira. | Compreender melhor o mercado financeiro e o mundo de finanças pessoais. |
+|Deborah Silva| Lembretes para recordar de possíveis pagamentos pendentes. | Pagar dividas e evitar atrasos em contas. |
+|Deborah Silva| Compreender seu balanço finançeiro para economizar dinheiro. | Realizar uma viajem em família. |
 
 
 
@@ -47,10 +47,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------------------------------------------------------------------------------------------------|------------|
 |RF-001| Permitir que o usuário insira suas receitas e despesas na plataforma                                                              |    ALTA    | 
 |RF-002| Garantir que o usuário possa visualizar o saldo resultante de suas operações de forma clara e acessível.                          |    ALTA    | 
-|RF-003| Implementar um sistema que permita ao usuário estabelecer e acompanhar metas de gastos, auxiliando na gestão financeira pessoal.  |    ALTA   |
+|RF-003| Implementar um sistema que permita ao usuário estabelecer e acompanhar metas de gastos, auxiliando na gestão financeira pessoal.  |    MÉDIA   |
 |RF-004| Desenvolver funcionalidade para gerar relatórios financeiros detalhados, oferecendo uma análise abrangente de suas finanças       |    MÉDIA   |
-|RF-005| Permitir que o usuário utilize categorias pré-estabelecidas para classificar suas transações.                                     |    MÉDIA   |
-|RF-006| Incluir gráficos para que o usuário possa visualizar de forma mais clara suas receitas e despesas ao longo do mês.                |    MÉDIA   |
+|RF-005| Permitir que o usuário utilize categorias pré-estabelecidas para classificar suas transações.                                     |    BAIXA   |
+|RF-006| Incluir gráficos para que o usuário possa visualizar de forma mais clara suas receitas e despesas ao longo do mês.                |    BAIXA   |
 |RF-007| Implementar a capacidade de utilizar IA para analisar relatórios e fornecer insights personalizados aos usuários.                 |    BAIXA   |
 
 
